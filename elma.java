@@ -20,5 +20,6 @@ public class elma {
 		
 		 char ch=97;
 		 System.out.println(ch);
+		  System.out.println("Hello");
 }
 }
